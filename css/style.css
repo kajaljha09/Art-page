@@ -4,7 +4,7 @@
     margin:0px
 } 
 .container-fluid{
-    background-image: url("/images/hd1.png");
+    background-image: url("../images/hd1.png");
     height:100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -142,7 +142,7 @@
 }
 /*form section styling*/
 #write div{
-    background-image:url("/images/fm.png");
+    background-image:url("../images/fm.png");
     background-size: cover;
     background-repeat: no-repeat;
    
@@ -214,7 +214,7 @@
     #write div{
 
    
-            background-image:url("/images/fm.png");
+            background-image:url("../images/fm.png");
             background-size: cover;
             background-repeat: no-repeat;
             height:fit-content
@@ -243,7 +243,7 @@
     #write{
 
         margin:15% 0px;
-        background-image:url("/images/fm.png");
+        background-image:url("../images/fm.png");
         background-size: contain;
         background-repeat: no-repeat;
         height:fit-content;
@@ -309,7 +309,7 @@
         width:100%
     }    
     #write div{
-        background-image:url("/images/fm.png");
+        background-image:url("../images/fm.png");
         background-size: cover;
         background-repeat: no-repeat;
         margin: 0 auto;
