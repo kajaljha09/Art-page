@@ -212,9 +212,7 @@
     #contact{
         margin: 100px 20%;}
     #write div{
-
-   
-            background-image:url("fm.png");
+            background-image:url("/images/fm.png");
             background-size: cover;
             background-repeat: no-repeat;
             height:fit-content
@@ -243,7 +241,7 @@
     #write{
 
         margin:15% 0px;
-        background-image:url("fm.png");
+        background-image:url("/images/fm.png");
         background-size: contain;
         background-repeat: no-repeat;
         height:fit-content;
@@ -309,7 +307,7 @@
         width:100%
     }    
     #write div{
-        background-image:url("images/fm.png");
+        background-image:url("/images/fm.png");
         background-size: cover;
         background-repeat: no-repeat;
         margin: 0 auto;
