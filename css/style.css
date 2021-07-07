@@ -9,18 +9,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 1% 3%;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 /*navbar styling*/
 .navbar{
-    margin-left:-12px;
-    margin-right:-12px;
-    background-color: rgb(215, 98, 110);
-    height:10vh;
-    box-shadow: 4px 4px 4px rgb(106, 70, 70);
-    border-radius: 20px 20px;
+    margin:0;
+    background-color: rgb(205, 97, 107);
     font-family: 'Ubuntu', sans-serif; 
     font-size: 20px;
+   
     
     
 }
@@ -56,7 +54,7 @@
     height: 500px;
     border: 5px solid #fff;
     position: relative;
-    top:8vh
+    top:20vh
    
 }
 /*me section styling*/
@@ -212,8 +210,6 @@
     #contact{
         margin: 100px 20%;}
     #write div{
-
-   
             background-image:url("../images/fm.png");
             background-size: cover;
             background-repeat: no-repeat;
@@ -224,14 +220,12 @@
 @media (max-width:769px){
     
     .two img{
-        width:100%;
-        top:13vh;
-        right:3px;
-        z-index: 1;
+        
+        top:15vh;
         
     }
     .one{
-        top:10vh
+        top:13vh
     }
     .one h1{
         font-weight: 700; 
@@ -275,12 +269,12 @@
     .two img{
         width:98%;
         height:90%;
-        top:15vh;
+        top:22vh;
         right:3px
         
     }
     .one{
-        top:10vh
+        top:20vh
     }
     .one h1{
         font-weight: 700; 
