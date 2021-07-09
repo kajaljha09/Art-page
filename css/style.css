@@ -1,20 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');/* fontawesome import*/
 
-*{
-    margin:0px
-} 
+
 .container-fluid{
     background-image: url("../images/hd1.png");
     height:100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
-    padding-right: 0px;
-    padding-left: 0px;
+   
+    
 }
 /*navbar styling*/
 .navbar{
-    margin:0;
+   
     background-color: rgb(205, 97, 107);
     font-family: 'Ubuntu', sans-serif; 
     font-size: 20px;
